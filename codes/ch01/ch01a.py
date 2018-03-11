@@ -4,7 +4,7 @@ guess = int(g)
 if guess == 5: 
     print("You win!") 
 else: 
-    if guess > secret: 
+    if guess > 5: 
         print("Too high") 
     else: 
         print("Too low") 
