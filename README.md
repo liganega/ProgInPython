@@ -4,6 +4,9 @@
 * 강의내용
   * Head First Programming을 주교재로 사용하면서 프로그래밍의 기초 원리 및 컴퓨팅 사고력 익히기
   * Think Python을 부교재로 사용하면서 파이썬 프로그래밍의 기초 배우기
+* 강의비디오
+  * 챕터별 [강의비디오](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY6SFf3Aw327Ai1YKbm9M2M)를 
+      따라 볼 수 있음.
 
 * 저작권
   * 기본적으로 언급된 GPL 3.0 라이센스를 따르지만 전적으로 개인적인 용도로만 사용할 것을 권장함.
