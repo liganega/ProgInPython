@@ -8,13 +8,13 @@ wn = turtle.Screen()
 # Turtle 클래스의 인스턴스: 그림을 그리는 펜 역할 수행 (화살표 모양)
 bob = turtle.Turtle()
 
-bob.fd(100)             # 전진하기
-bob.lt(90)              # 왼쪽으로 90도 회전하기
-bob.fd(100)
-bob.lt(90)
-bob.fd(100)
-bob.lt(90)
-bob.fd(100)
-bob.lt(90)
+bob.forward(100)       # 전진하기
+bob.left(90)           # 왼쪽으로 90도 회전하기
+bob.forward(100)
+bob.left(90)
+bob.forward(100)
+bob.left(90)
+bob.forward(100)
+bob.left(90)
 
 wn.mainloop()           # X 버튼을 누를 때까지 Screen 객체 계속 유지 기능 수행
