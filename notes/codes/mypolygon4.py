@@ -1,6 +1,7 @@
 import turtle
 wn = turtle.Screen()
 wn.bgcolor("lightyellow")
+
 bob = turtle.Turtle()
 bob.shape("turtle")        # 화살표 대신 거북이 모양 선택
 bob.color("blue")

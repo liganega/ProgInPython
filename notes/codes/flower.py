@@ -53,14 +53,14 @@ def move(t, length):
 bob = turtle.Turtle()
 
 # draw a sequence of three flowers, as shown in the book.
-move(bob, -100)
-flower(bob, 7, 60.0, 60.0)
+move(bob, -200)
+flower(bob, 7, 90.0, 60.0)
 
-move(bob, 100)
-flower(bob, 10, 40.0, 80.0)
+move(bob, 200)
+flower(bob, 10, 60.0, 80.0)
 
-move(bob, 100)
-flower(bob, 20, 140.0, 20.0)
+move(bob, 200)
+flower(bob, 20, 210.0, 20.0)
 
 bob.hideturtle()
 turtle.mainloop()

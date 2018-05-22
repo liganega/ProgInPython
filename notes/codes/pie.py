@@ -27,7 +27,7 @@ def draw_pie(t, n, r):
     t.fd(r*2 + 10)
     t.pd()
 
-    
+
 def polypie(t, n, r):
     """Draws a pie divided into radial segments.
 
@@ -68,12 +68,10 @@ bob.bk(130)
 bob.pd()
 
 # draw polypies with various number of sides
-size = 40
+size = 100
 draw_pie(bob, 5, size)
 draw_pie(bob, 6, size)
 draw_pie(bob, 7, size)
-draw_pie(bob, 8, size)
 
 bob.hideturtle()
 turtle.mainloop()
-
