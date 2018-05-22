@@ -1,16 +1,29 @@
 import turtle
-wn = turtle.Screen()
-wn.bgcolor("lightyellow")
-bob = turtle.Turtle()
-bob.shape("turtle")        # 화살표 대신 거북이 모양 선택
-bob.color("blue")
 
-bob.penup()                # 펜 들기 (이동할 때 선을 그리지 않게 됨)
-size = 20
-for i in range(30):
-   bob.stamp()             # 거북이 모양 도장 찍기
-   size = size + 3         # 회전을 점차 크게 돌도록 만들기
-   bob.forward(size)       # size 크기만큼 전진하기
-   bob.right(24)           # 24도 우회전하기
+wn = turtle.Screen()
+wn.bgcolor("lightyellow")               # 배경화면 색깔 정하기
+wn.title("Hello, Bob and Alice!")       # 그래픽 제목 정하기
+
+# bob 생성
+bob = turtle.Turtle()
+
+# alice 생성
+alice = turtle.Turtle()
+alice.shape("turtle")
+alice.color("red")
+
+alice.penup()
+alice.backward(120)
+alice.pendown()
+
+# bob 으로 사각형 그리기
+for i in range(4):
+    bob.forward(100)
+    bob.left(90)
+
+# alice로 삼각형 그리기
+for i in range(3):
+    alice.forward(100)
+    alice.right(120)
 
 wn.mainloop()
