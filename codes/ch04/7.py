@@ -22,11 +22,14 @@ def score(x):
 
     for line in file:
         (name, score) = line.split()
-        score_list.append(score)
+        try:
+            score_list.append(float(score))
+        except:
+            continue
+        
+    score_list.sort(reverse=True)
 
-    score_list.pop(0)
-    score_list.sort()
-    score_list.reverse()
+    print(score_list)
 
     return score_list[x-1]
 
