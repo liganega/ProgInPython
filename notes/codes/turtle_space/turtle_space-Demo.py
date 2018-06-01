@@ -88,15 +88,15 @@ class Player(Sprite):
 	def turn_left(self):
 		self.rotation_speed = 30
 		h = self.heading() + self.rotation_speed
-		player.setheading(h)
+		self.setheading(h)
 
 	def turn_right(self):
 		self.rotation_speed = -30
 		h = self.heading() + self.rotation_speed
-		player.setheading(h)
+		self.setheading(h)
 
 	def accelerate(self):
-		h = player.heading()
+		h = self.heading()
 		self.dx += math.cos(h*math.pi/180)*self.thrust
 		self.dy += math.sin(h*math.pi/180)*self.thrust
 
@@ -111,7 +111,7 @@ class Player(Sprite):
 		self.speed *= 0.5
 
 	def move(self):
-		player.goto(player.xcor()+self.dx, player.ycor()+self.dy)
+		self.goto(self.xcor()+self.dx, self.ycor()+self.dy)
 
 		if self.xcor() < -290:
 			self.dx = -self.dx
@@ -127,12 +127,12 @@ class Player(Sprite):
 
 		#Simulate gravity in the center
 		#Not exactly correct due to angles being wrong
-		# if player.xcor() > 0 and (player.ycor() > 0 or player.ycor()<0):
+		# if self.xcor() > 0 and (self.ycor() > 0 or self.ycor()<0):
 # 			self.dx -= game.gravity
 # 		else:
 # 			self.dx += game.gravity
 #
-# 		if player.ycor() > 0 and (player.ycor() > 0 or player.ycor()<0):
+# 		if self.ycor() > 0 and (self.ycor() > 0 or self.ycor()<0):
 # 			self.dy -= game.gravity
 # 		else:
 # 			self.dy += game.gravity
