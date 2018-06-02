@@ -1,11 +1,12 @@
 '''
-* 참조: 다음 사이트의 코드를 파이썬 3에 맞추어 수정하였음.
+* 참조: 다음 사이트의 코드를 파이썬 3에 맞추어 수정 및 정리하였음.
 	* http://christianthompson.com/node/41
 * 2단계: 플레이어 추가 및 움직이기
-* 기본 Character 클래스에 기능 추가
-	* 움직임 기능 추가: move 메소드
-	* 움직임 기본 속도 지정 변수 선언: step 인스턴스 변수
-* 주인공 클래스 선언: MainPlayer
+* 추가 내용
+	* 기본 Character 클래스에 기능 추가
+		* 움직임 기능 추가: move 메소드
+		* 움직임 기본 속도 지정 변수 선언: step 인스턴스 변수
+	* 주인공 클래스 선언: MainPlayer
 '''
 
 # turtle 모듈 별칭으로 불러오기
@@ -40,7 +41,7 @@ class Character(t.Turtle):
 # 주인공 캐릭터 클래스: 기본 캐릭터 상속
 class MainPlayer(Character):
 	def __init__(self, characterShape, color, startX, startY):
-		Character.__init__(self, characterShape, color, startX, startY)
+		super().__init__(characterShape, color, startX, startY)
 		self.step = 4						# 이동 속도 조절용
 		self.lives = 3						# 생명 카운트
 

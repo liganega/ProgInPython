@@ -1,14 +1,19 @@
 '''
 * 참조: 다음 사이트의 코드를 파이썬 3에 맞추어 수정 및 정리하였음.
 	* http://christianthompson.com/node/41
-* 3단계: 게임 무대 추가
-* 추가내용
-	* 게임 무대 설정 클래서 선언: Stage
-	* Character 클래스 move 메소드 기능 제한: 모든 게임 캐릭터가 무대 못 벗어나게 하기
+* 4단계: 충돌 테스트
+* 추가 내용
+	* random 모듈 추가: 임의로 위치 및 방향 전환하기
+	* Character 클래스 기능 추가
+		* 캐릭터 충돌 확인 기능: isCollision
+		* 캐릭터 충돌 후 임의 위치로 이동 기능: afterCollision
+	* 적군 캐릭터 클래스 추가: Enemy
 '''
 
 # turtle 모듈 별칭으로 불러오기
 import turtle as t
+# 캐릭터가 무작위로 방향 바꾸는 용도
+import random
 
 # 윈도우 창 생성 및 설정
 wn = t.Screen()
@@ -53,6 +58,21 @@ class Character(t.Turtle):
 			self.sety(-290)
 			self.rt(60)
 
+	# 두 캐릭터의 충돌여부 확인용
+	def isCollision(self, other):
+		if abs(self.xcor() - other.xcor()) <= 20 and \
+		   abs(self.ycor() - other.ycor()) <= 20:
+			return True
+		else:
+			return False
+
+	# 충돌시 임의 위치로 이동하기
+	def afterCollision(self):
+		x = random.randint(-250, 250)
+		y = random.randint(-250, 250)
+		self.goto(x, y)
+
+
 # 주인공 캐릭터 클래스: 기본 캐릭터 상속
 class MainPlayer(Character):
 	def __init__(self, characterShape, color, startX, startY):
@@ -72,6 +92,14 @@ class MainPlayer(Character):
 
 	def decelerate(self):					# 감속
 		self.step -= 1
+
+# 적군 캐릭터 클래스: 기본 캐릭터 상속
+class Enemy(Character):
+	def __init__(self, characterShape, color, startx, starty):
+		super().__init__(characterShape, color, startx, starty)
+		self.step = 6						# 기본 속도
+		# 초기 진행 방향 무작위 지정
+		self.setheading(random.randint(0,360))
 
 # 게임 무대 클래스
 class Stage():
@@ -111,6 +139,8 @@ stage.draw_border()
 
 # 주인공 생성
 mPlayer = MainPlayer("triangle", "white", 0, 0)
+# 적군 생성
+enemy = Enemy("circle", "yellow", -100, 0)
 
 # 키보드와 메소드 연동하기
 wn.onkey(mPlayer.turn_left, "Left")			# 왼쪽 방향기 설정
@@ -119,8 +149,13 @@ wn.onkey(mPlayer.accelerate, "Up")			# 위쪽 방향키 설정
 wn.onkey(mPlayer.decelerate, "Down")		# 아래쪽 방향키 설정
 wn.listen()									# 화면 위 이벤트 감지
 
-# 주인공 움직임 테스트: 계속 움직임. 방향키 사용하여 조정 가능
+# 주인공과 적군의 충돌 테스트
 while True:
 	mPlayer.move()
+	enemy.move()
+
+	# 주인공과 적군이 충돌하면 적군을 임의의 위치로 보내기
+	if mPlayer.isCollision(enemy):
+		enemy.afterCollision()
 
 wn.mainloop()
