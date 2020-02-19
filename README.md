@@ -10,4 +10,6 @@
   * 챕터별 [강의비디오](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY6SFf3Aw327Ai1YKbm9M2M)를 
       따라 볼 수 있음.
 
-We follow the licence [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+## 저작권
+
+제공되는 모든 내용은 [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) 저작권을 따라 사용될 수 있음.
