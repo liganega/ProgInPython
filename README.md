@@ -25,12 +25,10 @@
 1. 오프라인 개발환경
     * 개인 컴퓨터에 파이썬을 설치한 후 사용.
     * 추천 개발환경: 파이썬 + Visual Studio Code
-        * 윈도우용 참고 사이트
-            * [Visual Studio Code를 사용하여 Python 프로그래밍 환경 만들기](https://www.youtube.com/watch?v=e4n2VnhiI28)
-            * [초보자를 위한 Windows에서 Python 사용 시작](https://docs.microsoft.com/ko-kr/windows/python/beginners)
-        * 맥 OSX용
-            * 프로그래밍 초보자에게는 좀 어려움. 온라인 개발환경 사용 추천.
-            * 인터넷 검색을 통해 아래 두 가지 방법 중 하나 선택 추천
+    * 윈도우용 참고 사이트
+        * [Visual Studio Code를 사용하여 Python 프로그래밍 환경 만들기](https://www.youtube.com/watch?v=e4n2VnhiI28)
+        * [초보자를 위한 Windows에서 Python 사용 시작](https://docs.microsoft.com/ko-kr/windows/python/beginners)
+    * 맥 OSX용: 프로그래밍 초보자에게는 좀 어려움. 온라인 개발환경 사용 추천.
 
 ## 참고도서 및 강의동영상
 
