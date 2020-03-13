@@ -16,6 +16,6 @@
       
 ## 목차
 
-1. [강의 소개](notebooks/PiPy00-Intro.ipynb)
-1. [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.ipynb)
-1. [프로그래밍 기본 요소: 변수, 표현식, 명령문](./notebooks/PiPy01B-Variables_Expressions_Commands.ipynb)
+1. [강의 소개](notebooks/PiPy01-Intro.ipynb)
+1. [프로그래밍 시작하기](./notebooks/PiPy02A-ProgrammingStart.ipynb)
+1. [프로그래밍 기본 요소: 변수, 표현식, 명령문](./notebooks/PiPy02B-Variables_Expressions_Commands.ipynb)
