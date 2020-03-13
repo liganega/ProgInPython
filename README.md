@@ -30,7 +30,11 @@
         * [초보자를 위한 Windows에서 Python 사용 시작](https://docs.microsoft.com/ko-kr/windows/python/beginners)
     * 맥 OSX용: 프로그래밍 초보자에게는 좀 어려움. 온라인 개발환경 사용 추천.
 
-## 참고도서 및 강의동영상
+## 강의 동영상
+
+[강의동영상](https://www.youtube.com/...)을 따라하며 공부할 수 있음.
+
+## 참고도서
 
 * [Head First Programming](http://m.hanbit.co.kr/store/books/book_view.html?p_code=B3578815816): 
     프로그래밍의 기초 원리 및 계산적 사고 학습
@@ -39,4 +43,3 @@
     * 온라인 한글 번역: [Think Python](https://www.flowdas.com/thinkpython/index.html#thinkpython), 
     번역 [flowdas](https://www.flowdas.com)
     * 번역서: [씽크 파이썬](https://www.gilbut.co.kr/book/view?bookcode=BN001838&perdevice=pc), 출판사 길벗
-* [강의동영상](https://www.youtube.com/...)을 참고할 수 있음.
