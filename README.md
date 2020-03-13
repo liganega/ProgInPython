@@ -13,6 +13,7 @@
 
 1. [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.ipynb)
 1. [프로그래밍 기본 요소: 변수, 표현식, 명령문](./notebooks/PiPy01B-Variables_Expressions_Commands.ipynb)
+1. ...
 
 ## 개발환경
 
@@ -32,7 +33,7 @@
 
 ## 강의 동영상
 
-[강의동영상](https://www.youtube.com/...)을 따라하며 공부할 수 있음.
+[강의 동영상](https://www.youtube.com/...)을 따라하며 공부할 수 있음.
 
 ## 참고도서
 
