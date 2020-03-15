@@ -22,7 +22,7 @@
 1. 온라인 개발환경
     * 인터넷만 지원되면 사용가능
     * 여기서는 [repl.it](https://repl.it) 사이트 활용. 
-        사용법은 [동영상](https://...) 참조.
+        사용법은 [동영상](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
 1. 오프라인 개발환경
     * 개인 컴퓨터에 파이썬을 설치한 후 사용.
     * 추천 개발환경: 파이썬 + Visual Studio Code
@@ -33,7 +33,7 @@
 
 ## 강의 동영상
 
-[강의 동영상](https://www.youtube.com/...)을 따라하며 공부할 수 있음.
+[강의 동영상](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f)을 따라하며 공부할 수 있음.
 
 ## 참고도서
 
