@@ -2,3 +2,6 @@ docsrc/_build/
 
 ## checkpoint directory
 notebooks/.ipynb_checkpoints
+
+## .DS_Store 
+notebooks/.DS_Store
