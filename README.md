@@ -36,7 +36,10 @@
 
 ## 강의 동영상
 
-[강의 동영상](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f)을 따라하며 공부할 수 있음.
+* [강의 동영상](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f)을 
+    따라하며 공부할 수 있음.
+* (Think Python) 내용은 강의 동영상에서 사용된 파이썬 프로그래밍 요소들에 대한 추가 설명 자료임. 
+    강의 동영상에는 포함되지 않음.
 
 ## 참고도서
 
