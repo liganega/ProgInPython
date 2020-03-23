@@ -14,8 +14,8 @@
 1. [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.ipynb)
 1. (Think Python) [프로그래밍 기본 요소: 변수, 표현식, 명령문](./notebooks/PiPy01B-Variables_Expressions_Commands.ipynb)
 1. [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.ipynb)
-    1. [기본 자료형: 문자열](./notebooks/PiPy02B-Strings.ipynb)
-    1. [문자열과 반복문](./notebooks/PiPy02C-StringsAndLoops.ipynb)
+1. (Think Python) [기본 자료형: 문자열](./notebooks/PiPy02B-Strings.ipynb)
+1. (Think Python) [문자열과 반복문](./notebooks/PiPy02C-StringsAndLoops.ipynb)
 1. ...
 
 ## 개발환경
