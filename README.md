@@ -16,6 +16,8 @@
 1. [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.ipynb)
 1. (Think Python) [기본 자료형: 문자열](./notebooks/PiPy02B-Strings.ipynb)
 1. (Think Python) [문자열과 반복문](./notebooks/PiPy02C-StringsAndLoops.ipynb)
+1. [코드 추상화: 함수편](./notebooks/PiPy03A-FunctionAbstraction.ipynb)
+1. (Think Python) [기본 자료형: 함수](./notebooks/PiPy03B-Functions.ipynb)
 1. ...
 
 ## 개발환경
