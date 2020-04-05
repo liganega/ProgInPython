@@ -18,10 +18,12 @@
 1. (Think Python) [프로그래밍 기본 요소: 문자열과 반복문](./notebooks/PiPy02C-StringsAndLoops.ipynb)
 1. [코드 추상화: 함수편](./notebooks/PiPy03A-FunctionAbstraction.ipynb)
 1. (Think Python) [기본 자료형: 함수](./notebooks/PiPy03B-Functions.ipynb)
-1. [데이터셋 다루기: 파일과 리스트](./notebooks/PiPy04A-DataSets.ipynb)
+1. [데이터셋 다루기](./notebooks/PiPy04A-DataSets.ipynb)
 1. (Think Python) [기본 자료형: 파일](./notebooks/PiPy04B-Files.ipynb)
 1. (Think Python) [기본 자료형: 리스트](./notebooks/PiPy04C-Lists.ipynb)
 1. (Think Python) [프로그래밍 기본 요소: 오류와 예외처리](./notebooks/PiPy04D-ErrorsAndExceptions.ipynb)
+1. [연관배열](./notebooks/PiPy05A-AssociativeArrays.ipynb)
+1. (Think Python) [기본 자료형: 사전](./notebooks/PiPy05B-Dictionaries.ipynb)
 1. ...
 
 ## 개발환경
