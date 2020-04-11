@@ -24,6 +24,7 @@
     1. (Think Python) [프로그래밍 기본 요소: 오류와 예외처리](./notebooks/PiPy04D-ErrorsAndExceptions.ipynb)
 1. [연관배열 활용](./notebooks/PiPy05A-AssociativeArrays.ipynb)
     1. (Think Python) [기본 자료형: 집합과 사전](./notebooks/PiPy05B-SetsAndDictionaries.ipynb)
+    1. (Think Python) [기본 자료형: 튜플](./notebooks/PiPy05C-Tuples.ipynb)
 1. ...
 
 ## 개발환경
