@@ -1,0 +1,6 @@
+     Donut	 2000	 2
+ Americano	 3500	 1
+Cafe Latte	 4000	 1
+  Espresso	 3000	 1
+==========
+     Total	14500

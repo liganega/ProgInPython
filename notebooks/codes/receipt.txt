@@ -1,0 +1,4 @@
+  Affogato	 4500	 1
+     Bagle	 2500	 2
+==========
+     Total	9500
