@@ -25,7 +25,7 @@
 1. [연관배열 활용](./notebooks/PiPy05A-AssociativeArrays.ipynb)
     1. (Think Python) [기본 자료형: 튜플](./notebooks/PiPy05B-Tuples.ipynb)
     1. (Think Python) [기본 자료형: 집합과 사전](./notebooks/PiPy05C-SetsAndDictionaries.ipynb)
-1. [코드 추상화: 모듈](./notebooks/PiPy06-ModularProgramming.ipynb)
+1. [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.ipynb)
     1. (Think Python) [프로그래밍 기본 요소: 모듈과 패키지](./notebooks/PiPy06B-ModulesAndPackages.ipynb)
 1. ...
 
