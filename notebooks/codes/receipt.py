@@ -9,4 +9,4 @@ def saveReceipt(items, selections, price):
 
 # 멤버십 할인 함수
 def discount(price):
-    return price * 0.9          # 10% 할인
+    return price * 0.1          # 10% 할인

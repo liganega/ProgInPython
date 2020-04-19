@@ -1,4 +1,4 @@
      Donut	 2000	 2
-  Espresso	 3000	 1
+Cafe Latte	 4000	 1
 ==========
-     Total	6300
+     Total	7200
