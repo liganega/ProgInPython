@@ -1,4 +1,4 @@
-  Affogato	 4500	 1
-     Bagle	 2500	 2
+     Donut	 2000	 2
+  Espresso	 3000	 1
 ==========
-     Total	9500
+     Total	6300

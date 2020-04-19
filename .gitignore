@@ -2,6 +2,7 @@ docsrc/_build/
 
 ## checkpoint directory
 notebooks/.ipynb_checkpoints
+notebooks/codes/__pycache__
 
 ## .DS_Store 
 notebooks/.DS_Store
