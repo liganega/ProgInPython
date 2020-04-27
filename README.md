@@ -27,6 +27,8 @@
     1. (Think Python) [기본 자료형: 집합과 사전](./notebooks/PiPy05C-SetsAndDictionaries.ipynb)
 1. [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.ipynb)
     1. (Think Python) [프로그래밍 기본 요소: 모듈과 패키지](./notebooks/PiPy06B-ModulesAndPackages.ipynb)
+1. [객체 지향 프로그래밍 소개](./notebooks/PiPy07-OOP_Introduction.ipynb)
+1. [클래스와 인스턴스](./notebooks/PiPy08-ClassesAndInstances.ipynb)
 1. ...
 
 ## 개발환경
