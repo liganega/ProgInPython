@@ -13,7 +13,7 @@ alice.shape("turtle")
 alice.color("red")
 
 alice.penup()
-alice.backward(120)
+alice.backward(100)
 alice.pendown()
 
 # bob 으로 사각형 그리기
