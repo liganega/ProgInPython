@@ -28,7 +28,16 @@
 1. [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.ipynb)
     1. (Think Python) [프로그래밍 기본 요소: 모듈과 패키지](./notebooks/PiPy06B-ModulesAndPackages.ipynb)
 1. [객체 지향 프로그래밍 소개](./notebooks/PiPy07-OOP_Introduction.ipynb)
-1. [클래스와 인스턴스](./notebooks/PiPy08-ClassesAndInstances.ipynb)
+1. [코드 추상화: 클래스와 객체 1부](./notebooks/PiPy08-ClassesAndInstances_Part1.ipynb)
+    1. 클래스와 자료형
+    1. 속성과 메서드
+    1. 클래스 정의와 사용법
+    1. 인스턴스 속성
+    1. 클래스 속성
+1. [코드 추상화: 클래스와 객체 2부](./notebooks/PiPy09-ClassesAndInstances_Part2.ipynb)
+    1. 클래스 장식자
+    1. 매직 메서드
+    1. 매직 메서드 재정의
 1. ...
 
 ## 개발환경
