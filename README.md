@@ -27,7 +27,7 @@
     1. (Think Python) [기본 자료형: 집합과 사전](./notebooks/PiPy05C-SetsAndDictionaries.ipynb)
 1. [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.ipynb)
     1. (Think Python) [프로그래밍 기본 요소: 모듈과 패키지](./notebooks/PiPy06B-ModulesAndPackages.ipynb)
-1. [객체 지향 프로그래밍 소개](./notebooks/PiPy07-OOP_Introduction.ipynb)
+1. [객체 지향 프로그래밍: ](./notebooks/PiPy07-OOP_Introduction.ipynb)
 1. [코드 추상화: 클래스와 객체 1부](./notebooks/PiPy08-ClassesAndInstances_Part1.ipynb)
     1. 클래스와 자료형
     1. 속성과 메서드
@@ -38,7 +38,17 @@
     1. 클래스 장식자
     1. 매직 메서드
     1. 매직 메서드 재정의
-1. ...
+1. [객체 지향 프로그래밍: 상속과 구성](./notebooks/PiPy10-OOP_InheritanceAndComposition.ipynb)
+    1. 클래스 상속
+    1. 클래스 구성
+    1. 추상 클래스
+    1. 인터페이스
+1. [객체 지향 프로그래밍: GUI 프로그래밍 소개](./notebooks/PiPy11-OOP_GUI-Programming_Introduction.ipynb)
+    1. tkinter
+    1. GUI 활용 예제
+1. [객체 지향 프로그래밍: 게임 프로그래밍 소개](./notebooks/PiPy12-OOP_GameProgramming_Introduction.ipynb)
+    1. pygame
+    1. 게임 프로그래밍 예제
 
 ## 개발환경
 
