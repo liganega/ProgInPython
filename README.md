@@ -46,7 +46,10 @@
 1. [객체 지향 프로그래밍: GUI 프로그래밍 소개](./notebooks/PiPy11-OOP_GUI-Programming_Introduction.ipynb)
     1. tkinter
     1. GUI 활용 예제
-1. [객체 지향 프로그래밍: 게임 프로그래밍 소개](./notebooks/PiPy12-OOP_GameProgramming_Introduction.ipynb)
+1. [객체 지향 프로그래밍: GUI 프로그래밍 예제](./notebooks/PiPy12-OOP_GUI-Programming_Examples.ipynb)
+    1. 계산기
+    1. ...
+1. [객체 지향 프로그래밍: 게임 프로그래밍 예제](./notebooks/PiPy13-OOP_GameProgramming_Examples.ipynb)
     1. pygame
     1. 게임 프로그래밍 예제
 

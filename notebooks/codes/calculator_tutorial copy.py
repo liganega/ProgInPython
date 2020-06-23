@@ -57,5 +57,4 @@ class app(Frame):
                 display.set("ERROR")
 
 
-if __name__=='__main__':
- app().mainloop()
+app().mainloop()
