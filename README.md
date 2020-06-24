@@ -28,8 +28,9 @@
 1. [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.ipynb)
     1. (Think Python) [프로그래밍 기본 요소: 모듈과 패키지](./notebooks/PiPy06B-ModulesAndPackages.ipynb)
 1. [객체 지향 프로그래밍: 소개](./notebooks/PiPy07-OOP_Introduction.ipynb)
-		1. 객체지향 프로그래밍이란?
-		1. turtle 그래픽 활용 게임 프로그래밍 소개
+    1. 객체지향 프로그래밍(OOP) 정의
+    1. OOP와 객체 활용
+    1. 거북이(turtle) 그래픽 활용
 1. [코드 추상화: 클래스와 객체 1부](./notebooks/PiPy08-ClassesAndInstances_Part1.ipynb)
     1. 클래스와 자료형
     1. 속성과 메서드
@@ -38,22 +39,28 @@
     1. 클래스 속성
 1. [코드 추상화: 클래스와 객체 2부](./notebooks/PiPy09-ClassesAndInstances_Part2.ipynb)
     1. 클래스 장식자
+        1. 클래스 메서드
+        1. 정적 메서드
     1. 매직 메서드
     1. 매직 메서드 재정의
 1. [객체 지향 프로그래밍: 상속과 구성](./notebooks/PiPy10-OOP_InheritanceAndComposition.ipynb)
     1. 클래스 상속
+    1. 상속의 한계
     1. OOP와 구성
     1. 추상/구상 클래스
+    1. OOP 디자인 패턴
 1. [객체 지향 프로그래밍: GUI 프로그래밍 소개](./notebooks/PiPy11-OOP_GUI-Programming_Introduction.ipynb)
-    1. tkinter
+    1. tkinter 소개
     1. GUI 활용 예제
-1. [객체 지향 프로그래밍: GUI 프로그래밍 예제](./notebooks/PiPy12-OOP_GUI-Programming_Examples.ipynb)
-    1. 계산기
-    1. ...
+    1. GUI 애플리케이션 구현 요소
+1. [객체 지향 프로그래밍: GUI 애플리케이션 예제](./notebooks/PiPy12-OOP_GUI-Application_Examples.ipynb)
+    1. GUI 애플리케이션 예제
+        1. 계산기
+    1. 이벤트와 콜백 함수
+    1. 콜백과 람다 함수
 1. [객체 지향 프로그래밍: 게임 프로그래밍 예제](./notebooks/PiPy13-OOP_GameProgramming_Examples.ipynb)
     1. turtle, tkinter, pygame 활용 게임 프로그래밍 예제 안내
-		1. ...
-
+1. ...
 ## 개발환경
 
 컴퓨터 프로그래밍을 하려면 개발환경을 준비해야 하며, 두 가지 방식이 있다.
