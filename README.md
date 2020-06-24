@@ -53,7 +53,7 @@
     1. tkinter 소개
     1. GUI 활용 예제
     1. GUI 애플리케이션 구현 요소
-1. [객체 지향 프로그래밍: GUI 애플리케이션 예제](./notebooks/PiPy12-OOP_GUI-Application_Examples.ipynb)
+1. [객체 지향 프로그래밍: 이벤트와 콜백](./notebooks/PiPy12-OOP_EventsAndCallbacks.ipynb)
     1. 이벤트, 콜백, 람다 함수
     1. GUI 애플리케이션 예제: 계산기
 1. [객체 지향 프로그래밍: 게임 프로그래밍 예제](./notebooks/PiPy13-OOP_GameProgramming_Examples.ipynb)
