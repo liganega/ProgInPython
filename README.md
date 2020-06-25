@@ -57,8 +57,9 @@
 1. [객체 지향 프로그래밍: 이벤트와 콜백](./notebooks/PiPy12-OOP_EventsAndCallbacks.ipynb)
     1. 이벤트, 콜백, 람다 함수
     1. GUI 애플리케이션 예제: 계산기
-1. [객체 지향 프로그래밍: 게임 프로그래밍 예제](./notebooks/PiPy13-OOP_GameProgramming_Examples.ipynb)
-    1. turtle, tkinter, pygame 활용 게임 프로그래밍 예제 안내
+1. [객체 지향 프로그래밍: 게임 프로그래밍 안내](./notebooks/PiPy13-OOP_GameProgramming_Introduction.ipynb)
+    1. 파이썬 게임 프로그래밍 관련 정보 안내
+    1. pygame, turtle 등을 활용한 게임 프로그래밍 안내
 1. ...
 
 ## 개발환경
