@@ -36,7 +36,7 @@
         (참고자료: [Think Python](./notebooks/PiPy05C-SetsAndDictionaries.html))
 * 6장 [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.html)
     * 프로그래밍 기본 요소: 모듈과 패키지 
-        (참고자료: [Think Python](./notebooks/PiPy06B-ModulesAndPackages.html)
+        (참고자료: [Think Python](./notebooks/PiPy06B-ModulesAndPackages.html))
 * 7장 [객체 지향 프로그래밍: 소개](./notebooks/PiPy07-OOP_Introduction.html)
     * 객체지향 프로그래밍(OOP) 정의
     * OOP와 객체 활용: 거북이(turtle) 그래픽
