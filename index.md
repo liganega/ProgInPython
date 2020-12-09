@@ -11,9 +11,12 @@
 ### 강의 동영상
 
 * [강의 동영상](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f)을 
-    따라하며 공부할 수 있습니다.
+    따라하며 공부할 수 있습니다. 
+    강의 동영상은 
+    [깃허브(Github)의 주피터 노트북](https://github.com/liganega/ProgInPython)을
+    이용하여 설명하지만, 내용은 아래 강의노트의 그것과 동일합니다. 
 * Think Python 참고자료 내용은 강의노트에서 다루는 파이썬 프로그래밍의 기본요소들에 대한 추가 설명자료이며
-    강의 동영상에는 포함되지 않았습니다.
+    강의 동영상에는 포함되지 않습니다.
 
 ## 목차
 
