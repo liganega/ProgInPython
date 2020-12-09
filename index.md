@@ -12,21 +12,31 @@
 ## 목차
 
 * 1장 [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)
-    * 프로그래밍 기본 요소: 변수, 표현식, 명령문 (참고자료: [Think Python](./notebooks/PiPy01B-Variables_Expressions_Commands.html))
+    * 프로그래밍 기본 요소: 변수, 표현식, 명령문 
+        (참고자료: [Think Python](./notebooks/PiPy01B-Variables_Expressions_Commands.html))
 * 2장 [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.html)
-    * 기본 자료형: 문자열 (참고자료: [Think Python](./notebooks/PiPy02B-Strings.html))
-    * 프로그래밍 기본 요소: 문자열과 반복문 (참고자료: [Think Python](./notebooks/PiPy02C-StringsAndLoops.html))
+    * 기본 자료형: 문자열 
+        (참고자료: [Think Python](./notebooks/PiPy02B-Strings.html))
+    * 프로그래밍 기본 요소: 문자열과 반복문 
+        (참고자료: [Think Python](./notebooks/PiPy02C-StringsAndLoops.html))
 * 3장 [코드 추상화: 함수](./notebooks/PiPy03A-FunctionAbstraction.html)
-    * [프로그래밍 기본 요소: 함수](./notebooks/PiPy03B-Functions.html)
+    * 프로그래밍 기본 요소: 함수 
+        (참고자료: [Think Python](./notebooks/PiPy03B-Functions.html))
 * 4장 [데이터셋 다루기](./notebooks/PiPy04A-DataSets.html)
-    * [기본 자료형: 파일](./notebooks/PiPy04B-Files.html)
-    * [기본 자료형: 리스트](./notebooks/PiPy04C-Lists.html)
-    * [프로그래밍 기본 요소: 오류와 예외처리](./notebooks/PiPy04D-ErrorsAndExceptions.html)
+    * 기본 자료형: 파일 
+        (참고자료: [Think Python](./notebooks/PiPy04B-Files.html))
+    * 기본 자료형: 리스트 
+        (참고자료: [Think Python](./notebooks/PiPy04C-Lists.html))
+    * 프로그래밍 기본 요소: 오류와 예외처리 
+        (참고자료: [Think Python](./notebooks/PiPy04D-ErrorsAndExceptions.html))
 * 5장 [연관배열 활용](./notebooks/PiPy05A-AssociativeArrays.html)
-    * [기본 자료형: 튜플](./notebooks/PiPy05B-Tuples.html)
-    * [기본 자료형: 집합과 사전](./notebooks/PiPy05C-SetsAndDictionaries.html)
+    * 기본 자료형: 튜플 
+        (참고자료: [Think Python](./notebooks/PiPy05B-Tuples.html))
+    * 기본 자료형: 집합과 사전 
+        (참고자료: [Think Python](./notebooks/PiPy05C-SetsAndDictionaries.html))
 * 6장 [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.html)
-    * [프로그래밍 기본 요소: 모듈과 패키지](./notebooks/PiPy06B-ModulesAndPackages.html)
+    * 프로그래밍 기본 요소: 모듈과 패키지 
+        (참고자료: [Think Python](./notebooks/PiPy06B-ModulesAndPackages.html)
 * 7장 [객체 지향 프로그래밍: 소개](./notebooks/PiPy07-OOP_Introduction.html)
     * 객체지향 프로그래밍(OOP) 정의
     * OOP와 객체 활용: 거북이(turtle) 그래픽
