@@ -8,6 +8,13 @@
 [TIOBE Index](https://www.tiobe.com/tiobe-index/)에서 
 파이썬의 위력을 확인할 수 있습니다.
 
+### 강의 동영상
+
+* [강의 동영상](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f)을 
+    따라하며 공부할 수 있습니다.
+* Think Python 참고자료 내용은 강의노트에서 다루는 파이썬 프로그래밍의 기본요소들에 대한 추가 설명자료이며
+    강의 동영상에는 포함되지 않았습니다.
+
 ## 목차
 
 * 1장 [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)
@@ -74,13 +81,6 @@
         * [Visual Studio Code를 사용하여 Python 프로그래밍 환경 만들기](https://www.youtube.com/watch?v=e4n2VnhiI28)
         * [초보자를 위한 Windows에서 Python 사용 시작](https://docs.microsoft.com/ko-kr/windows/python/beginners)
     * 맥 OSX용: 프로그래밍 초보자에게는 좀 어려움. 온라인 개발환경 사용 추천.
-
-## 강의 동영상
-
-* [강의 동영상](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f)을 
-    따라하며 공부할 수 있음.
-* (Think Python) 내용은 강의 동영상에서 사용된 파이썬 프로그래밍 요소들에 대한 추가 설명 자료임. 
-    강의 동영상에는 포함되지 않음.
 
 ## 참고도서
 
