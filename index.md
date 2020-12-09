@@ -1,62 +1,99 @@
-## 소개
+## 파이썬 프로그래밍 기초
 
-유튜버 [나도코딩](https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw)의 
-C 프로그래밍 기초 동영상 모음집 
-[(나도코딩 C)](https://www.youtube.com/watch?v=dEykoFZkf5Y&list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP&ab_channel=%EB%82%98%EB%8F%84%EC%BD%94%EB%94%A9)를 
-이용하여 C 프로그래밍의 기초를 학습합니다. 
-보다 효율적인 학습을 위해 파이썬 프로그래밍의 기본요소를 다루는 방법과 비교하면서 프로그래밍의 기본요소를 설명합니다.
-컴퓨터 프로그래밍의 기본요소를 특성이 매우 다른 두 언어를 이용하여 설명하면서 프로그래밍의 보다 깊은 특성을 전달하고자 합니다.
+"컴퓨터 프로그래밍을 어떻게 하는가?"를 전달한다.
+즉, 프로그래밍을 통해 컴퓨터를 제어하고, 원하는 기능을 갖춘 다양한 앱을 만드는 방법을 배운다.
 
-### 감사의 글
-
-훌륭한 강의동영상을 공개한 
-[나도코딩](https://www.youtube.com/channel/UC7iAOLiALt2rtMVAWWl4pnw)님께 
-감사드립니다.
+프로그래밍 도구로 **파이썬(Python)** 언어를 사용한다.
+파이썬은 다루기 쉬우며, 세계에서 가장 많이 사용되는 프로그래밍 언어 중의 하나이다.
+프로그래밍 언어들의 인기도를 측정하는 
+[TIOBE Index](https://www.tiobe.com/tiobe-index/)에서 
+파이썬의 위력을 확인할 수 있다.
 
 ## 목차
 
-* 1장 Hello World &nbsp; 
-    [[ipynb]](./notebooks/01-HelloWorld.ipynb)
-    [[html]](./notebooks/01-HelloWorld.html)
-* 2장 변수, 상수, printf, scanf &nbsp;
-    [[ipynb]](./notebooks/02-Variables-Constants-printf-scanf.ipynb)
-    [[html]](./notebooks/02-Variables-Constants-printf-scanf.html)
-* 3장 반복문 &nbsp;
-    [[ipynb]](./notebooks/03-Iterations.ipynb)
-    [[html]](./notebooks/03-Iterations.html)
-* 4장 조건문 &nbsp;
-    [[ipynb]](./notebooks/04-Conditionals.ipynb)
-    [[html]](./notebooks/04-Conditionals.html)
-* 5장 함수 &nbsp;
-    [[ipynb]](./notebooks/05-Functions.ipynb)
-    [[html]](./notebooks/05-Functions.html)
-* 6장 배열 &nbsp;
-    [[ipynb]](./notebooks/06-Arrays.ipynb)
-    [[html]](./notebooks/06-Arrays.html)
-* 7장 포인터 &nbsp;
-    [[ipynb]](./notebooks/07-Pointers.ipynb)
-    [[html]](./notebooks/07-Pointers.html)
-* 8장 다차원 배열 &nbsp;
-    [[ipynb]](./notebooks/08-Multidimensional-arrays.ipynb)
-    [[html]](./notebooks/08-Multidimensional-arrays.html)
-* 9장 구조체 vs. 클래스 &nbsp;
-    [[ipynb]](./notebooks/09-Struct-vs-Class.ipynb)
-    [[html]](./notebooks/09-Struct-vs-Class.html)
-* 10장 파일 다루기 &nbsp;
-    [[ipynb]](./notebooks/10-Files.ipynb)
-    [[html]](./notebooks/10-Files.html)
+1. 프로그래밍 시작하기 &nbsp;
+    [[ipynb]](./notebooks/PiPy01A-ProgrammingStart.ipynb)
+    [[html]](./notebooks/PiPy01A-ProgrammingStart.html)
+    1. (Think Python) 프로그래밍 기본 요소: 변수, 표현식, 명령문 &nbsp;
+        [[ipynb]](./notebooks/PiPy01B-Variables_Expressions_Commands.ipynb)
+        [[html]](./notebooks/PiPy01B-Variables_Expressions_Commands.ipynb)
+1. [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.ipynb)
+    1. (Think Python) [기본 자료형: 문자열](./notebooks/PiPy02B-Strings.ipynb)
+    1. (Think Python) [프로그래밍 기본 요소: 문자열과 반복문](./notebooks/PiPy02C-StringsAndLoops.ipynb)
+1. [코드 추상화: 함수](./notebooks/PiPy03A-FunctionAbstraction.ipynb)
+    1. (Think Python) [프로그래밍 기본 요소: 함수](./notebooks/PiPy03B-Functions.ipynb)
+1. [데이터셋 다루기](./notebooks/PiPy04A-DataSets.ipynb)
+    1. (Think Python) [기본 자료형: 파일](./notebooks/PiPy04B-Files.ipynb)
+    1. (Think Python) [기본 자료형: 리스트](./notebooks/PiPy04C-Lists.ipynb)
+    1. (Think Python) [프로그래밍 기본 요소: 오류와 예외처리](./notebooks/PiPy04D-ErrorsAndExceptions.ipynb)
+1. [연관배열 활용](./notebooks/PiPy05A-AssociativeArrays.ipynb)
+    1. (Think Python) [기본 자료형: 튜플](./notebooks/PiPy05B-Tuples.ipynb)
+    1. (Think Python) [기본 자료형: 집합과 사전](./notebooks/PiPy05C-SetsAndDictionaries.ipynb)
+1. [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.ipynb)
+    1. (Think Python) [프로그래밍 기본 요소: 모듈과 패키지](./notebooks/PiPy06B-ModulesAndPackages.ipynb)
+1. [객체 지향 프로그래밍: 소개](./notebooks/PiPy07-OOP_Introduction.ipynb)
+    1. 객체지향 프로그래밍(OOP) 정의
+    1. OOP와 객체 활용
+    1. 거북이(turtle) 그래픽 활용
+1. [코드 추상화: 클래스와 객체 1부](./notebooks/PiPy08-ClassesAndInstances_Part1.ipynb)
+    1. 클래스와 자료형
+    1. 속성과 메서드
+    1. 클래스 정의와 사용법
+    1. 인스턴스 속성
+    1. 클래스 속성
+1. [코드 추상화: 클래스와 객체 2부](./notebooks/PiPy09-ClassesAndInstances_Part2.ipynb)
+    1. 클래스 장식자
+        1. 클래스 메서드
+        1. 정적 메서드
+    1. 매직 메서드
+    1. 매직 메서드 재정의
+1. [객체 지향 프로그래밍: 상속과 구성](./notebooks/PiPy10-OOP_InheritanceAndComposition.ipynb)
+    1. 클래스 상속
+    1. 상속의 한계
+    1. OOP와 구성
+    1. 추상/구상 클래스
+    1. OOP 디자인 패턴
+1. [객체 지향 프로그래밍: GUI 프로그래밍 소개](./notebooks/PiPy11-OOP_GUI-Programming_Introduction.ipynb)
+    1. tkinter 소개
+    1. GUI 활용 예제
+    1. GUI 애플리케이션 구현 요소
+1. [객체 지향 프로그래밍: 이벤트와 콜백](./notebooks/PiPy12-OOP_EventsAndCallbacks.ipynb)
+    1. 이벤트, 콜백, 람다 함수
+    1. GUI 애플리케이션 예제: 계산기
+1. [객체 지향 프로그래밍: 게임 프로그래밍 안내](./notebooks/PiPy13-OOP_GameProgramming_Introduction.ipynb)
+    1. 파이썬 게임 프로그래밍 관련 정보 안내
+    1. pygame, turtle 등을 활용한 게임 프로그래밍 안내
+1. ...
 
-## 공부 더하기(추천)
+## 개발환경
 
-프로젝트 열 개의 알고리즘을 학습하면서 프로그래밍의 기초를 학습하였습니다. 
-프로그래밍의 기초를 좀 더 깊게 다지고 싶다면 각각의 프로젝트에서 소개된 그래픽 인터페이스를 직접 구현해볼 것을 추천합니다. 
-C 언어를 사용할 수도 있지만 좀 어렵습니다.
-반면에 파이썬 언어는 조금만 더 공부하면 어렵지 않게 모든 애플리케이션을 완벽하게 구현할 수 있을 것입니다.
-예를 들어, 아래 사이트에서 제공하는 파이썬 강좌를 끝까지 이수하는 것으로 충분할 것입니다. 
+컴퓨터 프로그래밍을 하려면 개발환경을 준비해야 하며, 두 가지 방식이 있다.
 
-* [파이썬 프로그래밍 기초](https://github.com/liganega/ProgInPython)
+1. 온라인 개발환경
+    * 인터넷만 지원되면 사용가능
+    * 여기서는 [repl.it](https://repl.it) 사이트 활용. 
+        사용법은 [동영상](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
+1. 오프라인 개발환경
+    * 개인 컴퓨터에 파이썬을 설치한 후 사용.
+    * 추천 개발환경: 파이썬 + Visual Studio Code
+    * 윈도우용 참고 사이트
+        * [Visual Studio Code를 사용하여 Python 프로그래밍 환경 만들기](https://www.youtube.com/watch?v=e4n2VnhiI28)
+        * [초보자를 위한 Windows에서 Python 사용 시작](https://docs.microsoft.com/ko-kr/windows/python/beginners)
+    * 맥 OSX용: 프로그래밍 초보자에게는 좀 어려움. 온라인 개발환경 사용 추천.
 
-그래픽 인터페이스 관련해서 좀 더 공부하려면 아래 책의 7장 이후 내용을 추가로 보면 됩니다. 
-(번역책이 불행히도 절판되었지만 도서관이나 중고서적으로는 구할 수 있음. 영어 원서 또한 인터넷 상에서 구할 수 있음.)
+## 강의 동영상
 
-* [Head First Programming, 폴 베리 지음, 한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B3578815816)
+* [강의 동영상](https://www.youtube.com/playlist?list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f)을 
+    따라하며 공부할 수 있음.
+* (Think Python) 내용은 강의 동영상에서 사용된 파이썬 프로그래밍 요소들에 대한 추가 설명 자료임. 
+    강의 동영상에는 포함되지 않음.
+
+## 참고도서
+
+* [Head First Programming](http://m.hanbit.co.kr/store/books/book_view.html?p_code=B3578815816): 
+    프로그래밍의 기초 원리 및 계산적 사고 학습
+* [Think Python](http://greenteapress.com/wp/think-python-2e/):
+    파이썬 프로그래밍 언어 기초 학습
+    * 온라인 한글 번역: [Think Python](https://www.flowdas.com/thinkpython/index.html#thinkpython), 
+    번역 [flowdas](https://www.flowdas.com)
+    * 번역서: [씽크 파이썬](https://www.gilbut.co.kr/book/view?bookcode=BN001838&perdevice=pc), 출판사 길벗
