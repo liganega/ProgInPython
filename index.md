@@ -13,7 +13,7 @@
 
 1. [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)
     1. (Think Python) [프로그래밍 기본 요소: 변수, 표현식, 명령문](./notebooks/PiPy01B-Variables_Expressions_Commands.html)
-1. (인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.html)
+1. [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.html)
     1. (Think Python) [기본 자료형: 문자열](./notebooks/PiPy02B-Strings.html)
     1. (Think Python) [프로그래밍 기본 요소: 문자열과 반복문](./notebooks/PiPy02C-StringsAndLoops.html)
 1. [코드 추상화: 함수](./notebooks/PiPy03A-FunctionAbstraction.html)
