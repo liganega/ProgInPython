@@ -72,12 +72,12 @@
 
 컴퓨터 프로그래밍을 하려면 개발환경을 준비해야 하며, 두 가지 방식이 있습니다.
 
-1. 온라인 개발환경(추천)
+1. 온라인 개발환경: 아래 두 가지 방식 중에 하나 선택 추천
     * [Repl.it](https://repl.it)
         * 강의 동영상에서 사용됨.
         * 사용법: [개발환경 소개](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
     * <p>구글 코랩 &nbsp; <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:30px;" alt="Open in Colab" src="openInColab.png"></a></p>
-        * 바로 실행 가능.
+        * 강의노트에 사용된 주피터 노트북을 직접 실행하면서 공부할 수 있음.
         * 사용법: [코랩 튜토리얼](https://www.youtube.com/watch?v=UTc3D_mQm8E&t=747s) 참조
         
 1. 오프라인 개발환경
