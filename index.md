@@ -68,22 +68,24 @@
     * 파이썬 게임 프로그래밍 관련 정보 안내
     * pygame, turtle 등을 활용한 게임 프로그래밍 안내
 
-
 ## 개발환경
 
-컴퓨터 프로그래밍을 하려면 개발환경을 준비해야 하며, 두 가지 방식이 있다.
+컴퓨터 프로그래밍을 하려면 개발환경을 준비해야 하며, 두 가지 방식이 있습니다.
 
-1. 온라인 개발환경
-    * 인터넷만 지원되면 사용가능
-    * 여기서는 [Repl.it](https://repl.it) 사이트 활용. 
-        사용법은 [동영상](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
+1. 온라인 개발환경(추천)
+    * [Repl.it](https://repl.it)
+        * 강의 동영상에서 사용됨.
+        * 사용법: [개발환경 소개](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
+    * [구글 코랩](https://colab.research.google.com/github/liganega/ProgInPython/blob/master/)
+<a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    * 바로 실행 가능.
+    * 사용법: [코랩 튜토리얼](https://www.youtube.com/watch?v=UTc3D_mQm8E&t=747s) 참조
+
 1. 오프라인 개발환경
-    * 개인 컴퓨터에 파이썬을 설치한 후 사용.
     * 추천 개발환경: 파이썬 + Visual Studio Code
-    * 윈도우용 참고 사이트
+    * 참고 사이트
         * [Visual Studio Code를 사용하여 Python 프로그래밍 환경 만들기](https://www.youtube.com/watch?v=e4n2VnhiI28)
         * [초보자를 위한 Windows에서 Python 사용 시작](https://docs.microsoft.com/ko-kr/windows/python/beginners)
-    * 맥 OSX용: 프로그래밍 초보자에게는 좀 어려움. 온라인 개발환경 사용 추천.
 
 ## 참고도서
 
@@ -94,42 +96,3 @@
     * 온라인 한글 번역: [Think Python](https://www.flowdas.com/thinkpython/index.html#thinkpython), 
     번역 [flowdas](https://www.flowdas.com)
     * 번역서: [씽크 파이썬](https://www.gilbut.co.kr/book/view?bookcode=BN001838&perdevice=pc), 출판사 길벗
-
-## 공부 더하기: 게임 프로그래밍
-
-객체지향프로그래밍이 가장 많이 활용되는 분야 중 하나가 게임분야입니다. 
-파이썬은 객체지향프로그래밍을 지원하는 언어이며 게임프로그래밍의 필수 요소인 GUI를 
-매우 간단하게 구현하는 기능을 제공합니다. 
-
-파이썬으로 게임프로그래밍의 맛을 보면서 매우 효율적으로 프로그래밍 실력을 향상시킬 수 있습니다.
-하지만 프로그래밍의 기초를 잘 다졌다 하더라도 게임프로그래밍을 하기 위해
-무엇을 어떻게 시작해야 하는가는 따로 배워야 합니다. 
-이를 위해 유튜버 나도코딩의 파이썬 
-[파이썬 초보 강의](https://www.youtube.com/watch?v=kWiCuklohdY&list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV)
-시리즈를 추천합니다.
-
-주의사항: 나도코딩의 동영상이 매우 간단한 내용부터 설명하지만 중간중간 
-초보자가 바로 따라가기엔 어려운 코드를 작성합니다.
-따라서 이곳에서 제공한 강의노트를 먼저 학습할 것을 권장합니다.
-그러면 나도코딩의 동영상에서 구현되는 많은 코드를 보다 체계적으로 이해할 수 있을 것입니다.
-
-### 게임 프로그래밍 교재 
-
-파이썬 게임프로그래밍을 체계적으로 설명한 책으로
-[Python과 Pygame으로 게임 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746159&orderClick=LAG&Kc=) 또는
-[나만의 Python Game 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746166&orderClick=LOA&Kc=)를
-추천합니다. 
-번역서를 구입할 수도 있고, 아니면 원서를 온라인 상에서 무료로 읽을 수도 있습니다.
-
-* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
-* [Invent Your Own Computer Games with Python](http://inventwithpython.com/invent4thed/)
-
-### 게임 프로그래밍 전문 유튜버
-
-유튜브 상에서 많은 이들이 게임프로그래밍을 방송합니다. 
-가장 활발하게 활동하는 이들 중에 한 명은 
-[TokyoEdtech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)인데
-게임프로그래밍의 기초기술부터 고급기술까지 차근차근 설명하면서 방송을 진행합니다.
-[Python과 Pygame으로 게임 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746159&orderClick=LAG&Kc=) 또는
-[나만의 Python Game 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746166&orderClick=LOA&Kc=)를 
-먼저 공부한 후에 좀 오래된 동영상부터 보면 어렵지 않게 따라갈 수 있을 것입니다.
