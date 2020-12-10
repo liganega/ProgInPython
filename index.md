@@ -76,7 +76,7 @@
     * [Repl.it](https://repl.it)
         * 강의 동영상에서 사용됨.
         * 사용법: [개발환경 소개](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
-    * <p>구글 코랩 <a><img style="vertical-align: middle;height:100px;" src="openInColab.png">(https://colab.research.google.com/github/liganega/ProgInPython/blob/master/)</a></p>
+    * <p>구글 코랩 <a><img style="vertical-align: middle;height:20px;" alt="Open in Colab" src="openInColab.png">(https://colab.research.google.com/github/liganega/ProgInPython/blob/master/)</a></p>
     * 구글 코랩 [<span style="color:white;background-color:#519BE3"><b>Open in Colab</b></span>](https://colab.research.google.com/github/liganega/ProgInPython/blob/master/)
         * 바로 실행 가능.
         * 사용법: [코랩 튜토리얼](https://www.youtube.com/watch?v=UTc3D_mQm8E&t=747s) 참조
