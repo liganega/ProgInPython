@@ -22,6 +22,11 @@
 
 <ul style="list-style: none;">
     <li>1장 [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)</li>
+    <ul>
+        <li>프로그래밍 기본 요소: 변수, 표현식, 명령문 </li>
+        <li>asdf</li
+    </ul>
+</ul>    
     * 프로그래밍 기본 요소: 변수, 표현식, 명령문 
         (참고자료: [Think Python](./notebooks/PiPy01B-Variables_Expressions_Commands.html))
 * 2장 [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.html)
@@ -68,7 +73,6 @@
 * 13장 [객체 지향 프로그래밍: 게임 프로그래밍 안내](./notebooks/PiPy13-OOP_GameProgramming_Introduction.html)
     * 파이썬 게임 프로그래밍 관련 정보 안내
     * pygame, turtle 등을 활용한 게임 프로그래밍 안내
-</ul>
 
 ## 개발환경
 
