@@ -76,9 +76,11 @@
     * [Repl.it](https://repl.it)
         * 강의 동영상에서 사용됨.
         * 사용법: [개발환경 소개](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
-    * <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    * [구글 코랩](https://colab.research.google.com/github/liganega/ProgInPython/blob/master/)
         * 바로 실행 가능.
         * 사용법: [코랩 튜토리얼](https://www.youtube.com/watch?v=UTc3D_mQm8E&t=747s) 참조
+        
+    <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 1. 오프라인 개발환경
     * 추천 개발환경: 파이썬 + Visual Studio Code
