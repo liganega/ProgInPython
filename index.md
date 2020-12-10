@@ -20,57 +20,51 @@
 
 ## 목차
 
-<ul style="list-style: none;">
-    <li>1장 [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)</li>
-    <ul>
-        <li>프로그래밍 기본 요소: 변수, 표현식, 명령문 </li>
-        <li>asdf</li>
-    </ul>
-</ul>    
+1. [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)
     * 프로그래밍 기본 요소: 변수, 표현식, 명령문 
         (참고자료: [Think Python](./notebooks/PiPy01B-Variables_Expressions_Commands.html))
-* 2장 [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.html)
+1. [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.html)
     * 기본 자료형: 문자열 
         (참고자료: [Think Python](./notebooks/PiPy02B-Strings.html))
     * 프로그래밍 기본 요소: 문자열과 반복문 
         (참고자료: [Think Python](./notebooks/PiPy02C-StringsAndLoops.html))
-* 3장 [코드 추상화: 함수](./notebooks/PiPy03A-FunctionAbstraction.html)
+1. [코드 추상화: 함수](./notebooks/PiPy03A-FunctionAbstraction.html)
     * 프로그래밍 기본 요소: 함수 
         (참고자료: [Think Python](./notebooks/PiPy03B-Functions.html))
-* 4장 [데이터셋 다루기](./notebooks/PiPy04A-DataSets.html)
+1. [데이터셋 다루기](./notebooks/PiPy04A-DataSets.html)
     * 기본 자료형: 파일 
         (참고자료: [Think Python](./notebooks/PiPy04B-Files.html))
     * 기본 자료형: 리스트 
         (참고자료: [Think Python](./notebooks/PiPy04C-Lists.html))
     * 프로그래밍 기본 요소: 오류와 예외처리 
         (참고자료: [Think Python](./notebooks/PiPy04D-ErrorsAndExceptions.html))
-* 5장 [연관배열 활용](./notebooks/PiPy05A-AssociativeArrays.html)
+1. [연관배열 활용](./notebooks/PiPy05A-AssociativeArrays.html)
     * 기본 자료형: 튜플 
         (참고자료: [Think Python](./notebooks/PiPy05B-Tuples.html))
     * 기본 자료형: 집합과 사전 
         (참고자료: [Think Python](./notebooks/PiPy05C-SetsAndDictionaries.html))
-* 6장 [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.html)
+1. [코드 추상화: 모듈](./notebooks/PiPy06A-ModularProgramming.html)
     * 프로그래밍 기본 요소: 모듈과 패키지 
         (참고자료: [Think Python](./notebooks/PiPy06B-ModulesAndPackages.html))
-* 7장 [객체 지향 프로그래밍: 소개](./notebooks/PiPy07-OOP_Introduction.html)
+1. [객체 지향 프로그래밍: 소개](./notebooks/PiPy07-OOP_Introduction.html)
     * 객체지향 프로그래밍(OOP) 정의
     * OOP와 객체 활용: 거북이(turtle) 그래픽
-* 8장 [코드 추상화: 클래스와 객체 1부](./notebooks/PiPy08-ClassesAndInstances_Part1.html)
+1. [코드 추상화: 클래스와 객체 1부](./notebooks/PiPy08-ClassesAndInstances_Part1.html)
     * 클래스와 자료형
     * 속성과 메서드: 인스턴스/클래스 속성
-* 9장 [코드 추상화: 클래스와 객체 2부](./notebooks/PiPy09-ClassesAndInstances_Part2.html)
+1. [코드 추상화: 클래스와 객체 2부](./notebooks/PiPy09-ClassesAndInstances_Part2.html)
     * 클래스 장식자
     * 클래스 메서드, 정적 메서드, 매직 메서드
-* 10장 [객체 지향 프로그래밍: 상속과 구성](./notebooks/PiPy10-OOP_InheritanceAndComposition.html)
+1. [객체 지향 프로그래밍: 상속과 구성](./notebooks/PiPy10-OOP_InheritanceAndComposition.html)
     * 클래스 상속
     * OOP와 구성(디자인 패턴): 추상/구상 클래스
-* 11장 [객체 지향 프로그래밍: GUI 프로그래밍 소개](./notebooks/PiPy11-OOP_GUI-Programming_Introduction.html)
+1. [객체 지향 프로그래밍: GUI 프로그래밍 소개](./notebooks/PiPy11-OOP_GUI-Programming_Introduction.html)
     * GUI 활용: tkinter 모듈
     * GUI 애플리케이션 구현 요소
-* 12장 [객체 지향 프로그래밍: 이벤트와 콜백](./notebooks/PiPy12-OOP_EventsAndCallbacks.html)
+1. [객체 지향 프로그래밍: 이벤트와 콜백](./notebooks/PiPy12-OOP_EventsAndCallbacks.html)
     * 이벤트, 콜백, 람다 함수
     * GUI 애플리케이션 예제: 계산기
-* 13장 [객체 지향 프로그래밍: 게임 프로그래밍 안내](./notebooks/PiPy13-OOP_GameProgramming_Introduction.html)
+1. [객체 지향 프로그래밍: 게임 프로그래밍 안내](./notebooks/PiPy13-OOP_GameProgramming_Introduction.html)
     * 파이썬 게임 프로그래밍 관련 정보 안내
     * pygame, turtle 등을 활용한 게임 프로그래밍 안내
 
