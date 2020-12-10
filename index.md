@@ -76,7 +76,7 @@
     * [Repl.it](https://repl.it)
         * 강의 동영상에서 사용됨.
         * 사용법: [개발환경 소개](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
-    * <p>구글 코랩 &nbsp; <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:25px;" alt="Open in Colab" src="openInColab.png"></a></p>
+    * <p>구글 코랩 &nbsp; <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:20px;" alt="Open in Colab" src="openInColab.png"></a></p>
         * 강의노트에 사용된 주피터 노트북을 직접 실행하면서 공부할 수 있음.
         * 사용법: [코랩 튜토리얼](https://www.youtube.com/watch?v=UTc3D_mQm8E&t=747s) 참조
         
