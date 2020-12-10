@@ -20,7 +20,8 @@
 
 ## 목차
 
-* 1장 [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)
+<ul style="list-style: none;">
+    <li>1장 [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)</li>
     * 프로그래밍 기본 요소: 변수, 표현식, 명령문 
         (참고자료: [Think Python](./notebooks/PiPy01B-Variables_Expressions_Commands.html))
 * 2장 [인터넷에서 정보 구하기](./notebooks/PiPy02A-InfoFromInternet.html)
@@ -67,6 +68,7 @@
 * 13장 [객체 지향 프로그래밍: 게임 프로그래밍 안내](./notebooks/PiPy13-OOP_GameProgramming_Introduction.html)
     * 파이썬 게임 프로그래밍 관련 정보 안내
     * pygame, turtle 등을 활용한 게임 프로그래밍 안내
+</ul>
 
 ## 개발환경
 
@@ -76,7 +78,7 @@
     * [Repl.it](https://repl.it)
         * 강의 동영상에서 사용됨.
         * 사용법: [개발환경 소개](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
-    * <p><a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/">구글 코랩</a> 
+    * <p><a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/">구글 코랩</a> &nbsp;
     <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:17px;" alt="Open in Colab" src="openInColab.png"></a></p>
         * 강의노트에 사용된 주피터 노트북을 직접 실행하면서 공부할 수 있음.
         * 사용법: [코랩 튜토리얼](https://www.youtube.com/watch?v=UTc3D_mQm8E&t=747s) 참조
