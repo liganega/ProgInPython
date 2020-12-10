@@ -77,7 +77,7 @@
         * 강의 동영상에서 사용됨.
         * 사용법: [개발환경 소개](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
     * <p><a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/">구글 코랩</a> &nbsp;
-    <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:17px;" alt="Open in Colab" src="openInColab.png"></a></p>
+    <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:20px;" alt="Open in Colab" src="openInColab.png"></a></p>
         * 강의노트에 사용된 주피터 노트북을 직접 실행하면서 공부할 수 있음.
         * 사용법: [코랩 튜토리얼](https://www.youtube.com/watch?v=UTc3D_mQm8E&t=747s) 참조
         
@@ -109,8 +109,8 @@
 [파이썬 초보 강의](https://www.youtube.com/watch?v=kWiCuklohdY&list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV)
 시리즈를 추천합니다.
 
-주의사항: 나도코딩의 동영상이 매우 간단한 내용부터 설명하지만 중간중간
-초보자가 바로 따라가기엔 어려운 코드를 작성합니다.
+주의사항: 나도코딩의 동영상이 매우 간단한 내용부터 설명하지만 
+뒤로 갈수록 초보자가 바로 따라가기엔 어려운 코드를 작성합니다.
 따라서 이곳에서 제공한 강의노트를 먼저 학습할 것을 권장합니다.
 그러면 나도코딩의 동영상에서 구현되는 많은 코드를 보다 체계적으로 이해할 수 있을 것입니다.
 
