@@ -76,7 +76,8 @@
     * [Repl.it](https://repl.it)
         * 강의 동영상에서 사용됨.
         * 사용법: [개발환경 소개](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s) 참조.
-    * <p>구글 코랩 &nbsp; <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:20px;" alt="Open in Colab" src="openInColab.png"></a></p>
+    * <p><a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/">구글 코랩</a> 
+    <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:17px;" alt="Open in Colab" src="openInColab.png"></a></p>
         * 강의노트에 사용된 주피터 노트북을 직접 실행하면서 공부할 수 있음.
         * 사용법: [코랩 튜토리얼](https://www.youtube.com/watch?v=UTc3D_mQm8E&t=747s) 참조
         
@@ -125,7 +126,7 @@
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 * [Invent Your Own Computer Games with Python](http://inventwithpython.com/invent4thed/)
 
-### 게임 프로그래밍 전문 유튜버
+### 실전게임 프로그래밍 동영상
 
 유튜브 상에서 많은 이들이 게임프로그래밍을 방송합니다.
 가장 활발하게 활동하는 이들 중에 한 명은
