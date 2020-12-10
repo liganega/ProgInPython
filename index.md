@@ -24,7 +24,7 @@
     <li>1장 [프로그래밍 시작하기](./notebooks/PiPy01A-ProgrammingStart.html)</li>
     <ul>
         <li>프로그래밍 기본 요소: 변수, 표현식, 명령문 </li>
-        <li>asdf</li
+        <li>asdf</li>
     </ul>
 </ul>    
     * 프로그래밍 기본 요소: 변수, 표현식, 명령문 
