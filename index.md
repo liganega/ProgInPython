@@ -102,7 +102,6 @@
 객체지향프로그래밍이 가장 많이 활용되는 분야 중 하나가 게임분야입니다.
 파이썬은 객체지향프로그래밍을 지원하는 언어이며 게임프로그래밍의 필수 요소인 GUI를
 매우 간단하게 구현하는 기능을 제공합니다.
-
 파이썬으로 게임프로그래밍의 맛을 보면서 매우 효율적으로 프로그래밍 실력을 향상시킬 수 있습니다.
 하지만 프로그래밍의 기초를 잘 다졌다 하더라도 게임프로그래밍을 하기 위해
 무엇을 어떻게 시작해야 하는가는 따로 배워야 합니다.
@@ -122,7 +121,6 @@
 [나만의 Python Game 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746166&orderClick=LOA&Kc=)를
 추천합니다.
 번역서를 구입할 수도 있고, 아니면 원서를 온라인 상에서 무료로 읽을 수도 있습니다.
-
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 * [Invent Your Own Computer Games with Python](http://inventwithpython.com/invent4thed/)
 
