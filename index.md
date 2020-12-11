@@ -73,9 +73,9 @@
 컴퓨터 프로그래밍을 하려면 개발환경을 준비해야 하며, 두 가지 방식이 있습니다.
 
 1. 온라인 개발환경: 아래 두 가지 방식 중에 하나 선택 추천
-    * [Repl.it](https://repl.it)
+    * [레플릿(Repl.it)](https://repl.it)
         * 강의 동영상에서 사용됨.
-        * 참조: [Repl.it에서 파이썬 프로그래밍 하기](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s)
+        * 참조: [레플릿(Repl.it)에서 파이썬 프로그래밍 하기](https://www.youtube.com/watch?v=dWtCVbuwC_c&list=PL5aSjzJqCaPY0Nyu_hUVU8_HhBARlgP-f&index=3&t=571s)
     * <p><a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/">구글 코랩(Google Colab)</a> &nbsp;
     <a href="https://colab.research.google.com/github/liganega/ProgInPython/blob/master/"><img style="vertical-align: middle;height:20px;" alt="Open in Colab" src="openInColab.png"></a></p>
         * 강의노트에 사용된 주피터 노트북을 직접 실행하면서 공부할 수 있음.
@@ -99,24 +99,24 @@
 
 ## 공부 더하기: 게임 프로그래밍
 
-객체지향프로그래밍이 가장 많이 활용되는 분야 중 하나가 게임분야입니다.
-파이썬은 객체지향프로그래밍을 지원하는 언어이며 게임프로그래밍의 필수 요소인 GUI를
+OOP가 가장 많이 활용되는 분야 중 하나가 게임 프로그래밍 분야입니다.
+파이썬은 OOP 언어이며 게임 프로그래밍의 필수 요소인 GUI를
 매우 간단하게 구현하는 기능을 제공합니다.
-파이썬으로 게임프로그래밍의 맛을 보면서 매우 효율적으로 프로그래밍 실력을 향상시킬 수 있습니다.
-하지만 프로그래밍의 기초를 잘 다졌다 하더라도 게임프로그래밍을 하기 위해
+파이썬으로 게임 프로그래밍의 맛을 보면서 매우 효율적으로 프로그래밍 실력을 향상시킬 수 있습니다.
+하지만 프로그래밍의 기초를 잘 다졌다 하더라도 게임 프로그래밍을 위해
 무엇을 어떻게 시작해야 하는가는 따로 배워야 합니다.
 이를 위해 유튜버 나도코딩의 파이썬
 [파이썬 초보 강의](https://www.youtube.com/watch?v=kWiCuklohdY&list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV)
 시리즈를 추천합니다.
 
 주의사항: 나도코딩의 동영상이 매우 간단한 내용부터 설명하지만 
-뒤로 갈수록 초보자가 바로 따라가기엔 어려운 코드를 작성합니다.
-따라서 이곳에서 제공한 강의노트를 먼저 학습할 것을 권장합니다.
+뒤로 갈수록 초보자가 바로 따라가기엔 어려운 코드를 사용합니다.
+따라서 이곳에서 제공한 강의노트를 먼저 학습할 것을 권장하며,
 그러면 나도코딩의 동영상에서 구현되는 많은 코드를 보다 체계적으로 이해할 수 있을 것입니다.
 
 ### 게임 프로그래밍 교재
 
-파이썬 게임프로그래밍을 체계적으로 설명한 책으로
+파이썬 게임 로그래밍을 체계적으로 설명한 책으로
 [Python과 Pygame으로 게임 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746159&orderClick=LAG&Kc=) 또는
 [나만의 Python Game 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746166&orderClick=LOA&Kc=)를
 추천합니다.
@@ -126,10 +126,10 @@
 
 ### 실전게임 프로그래밍 동영상
 
-유튜브 상에서 많은 이들이 게임프로그래밍을 방송합니다.
+유튜브 상에서 많은 이들이 게임 로그래밍을 방송합니다.
 가장 활발하게 활동하는 이들 중에 한 명은
-[TokyoEdtech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)인데
-게임프로그래밍의 기초기술부터 고급기술까지 차근차근 설명하면서 방송을 진행합니다.
+[TokyoEdtech](https://www.youtube.com/channel/UC2vm-0XX5RkWCXWwtBZGOXg)이며
+게임 로그래밍의 기초기술부터 고급기술까지 차근차근 설명하면서 방송을 진행합니다.
 [Python과 Pygame으로 게임 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746159&orderClick=LAG&Kc=) 또는
 [나만의 Python Game 만들기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788956746166&orderClick=LOA&Kc=)를
 먼저 공부한 후에 좀 오래된 동영상부터 보면 어렵지 않게 따라갈 수 있을 것입니다.
